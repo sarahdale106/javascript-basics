@@ -1,0 +1,10 @@
+# Ignore node_modules
+
+# Ignore .json files
+
+# Ignore .html files
+
+node_modules/*.*
+
+./*.json
+
