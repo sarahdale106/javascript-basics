@@ -1,4 +1,4 @@
 These files are my solutions to the exercises found in Launch School's Introduction to Programming 
 with JavaScript and in the JavaScript Basics exercises at the end of the LS JS100 (prep) course.
 The beginning of each file name is the name of the chapter. 
-For the JavaScript Basics exercises, these solutions are all named jsBasics_
+For the JavaScript Basics exercises, these solutions are all named js100_
