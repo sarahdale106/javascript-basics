@@ -1,0 +1,1 @@
+//Falsey values: false, null, undefined, 0, NaN, " " or "", -0
