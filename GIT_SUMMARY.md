@@ -18,3 +18,9 @@ Just click "Create Repository" which will give instructions to "git remote add o
 Can copy the code tot he terminal window
 Will ask for login name and password (the Token)
 Check remote repo for the pushed files
+---Adding a folder---
+if made any changes to remote repository, will need to merge the remote changes with the local before a "push"
+git config pull.rebase false (merges and not rebases)
+git add (the local folder and any other updated files)
+git commit -m (message)
+git push -u origin main

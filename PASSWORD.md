@@ -1,2 +1,2 @@
 # PASSWORD.md #
-PAT for git remote: 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
+PAT for git remote: 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
